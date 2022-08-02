@@ -1,0 +1,52 @@
+{
+  "Book": [
+    {
+      "id": 1,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img1"
+    },
+    {
+      "id": 2,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img2"
+    },
+    {
+      "id": 3,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img3"
+    },
+    {
+      "id": 4,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img4"
+    },
+    {
+      "id": 5,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img5"
+    },
+    {
+      "id": 6,
+      "name": "SHERLOCK HOLMES",
+      "price": 10,
+      "quantity": 1,
+      "category": "Acao",
+      "img": "img6"
+    }
+  ]
+}
